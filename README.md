@@ -1,2 +1,0 @@
-# AskGitDemoRepo
-AskGit Demo Repository
